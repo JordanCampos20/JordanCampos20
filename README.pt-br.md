@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there 👌 I'm Jordan
-  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="Character">
+  Olá 👌 eu sou o Jordan
+  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="Personagem">
 </h1>
 
 *Read this in other languages: [English](README.md), [Portuguese](README.pt-br.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
@@ -29,19 +29,19 @@
   </a>
 </p>
 
-## 🐼 About me
-- 19 years old, based in Pelotas/RS
-- Technology analysis and systems development - Uninter
-- I love video games
+## 🐼 Sobre mim
+- 19 anos, residente em Pelotas/RS
+- Análise de tecnologia e desenvolvimento de sistemas - Uninter
+- Eu amo video games
 
-## 🔥 Interests
-- I am currently learning Web Development, Pipeline, UI/UX & Data Science
-- Web Development (Flask, HTML, CSS and Javascript)
-- Cloud Computing (AWS, Azure and GCP)
-- Data science and data engineering
-- Databases (MySQL, Postegres and Oracle DB)
+## 🔥 Interesses
+- Atualmente estou aprendendo Desenvolvimento Web, Pipeline, UI/UX e Ciência de Dados
+- Desenvolvimento Web (Flask, HTML, CSS e Javascript)
+- Computação em Nuvem (AWS, Azure e GCP)
+- Ciência de dados e engenharia de dados
+- Bancos de dados (MySQL, Postegres e Oracle DB)
 
-## 💻 Languages / Frameworks
+## 💻 Idiomas / Frameworks
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ Ferramentas
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -62,7 +62,7 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-5e5e5e?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## 📊 Stats
+## 📊 Estatísticas
 
 <p align="left">
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
@@ -75,7 +75,7 @@
 
 <details>
 
-## 📁 More Projects
+## 📁 Mais projetos
 
 <p align="left">
 

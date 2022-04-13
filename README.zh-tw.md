@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there 👌 I'm Jordan
-  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="Character">
+  你好👌我是喬丹
+  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="特點">
 </h1>
 
 *Read this in other languages: [English](README.md), [Portuguese](README.pt-br.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
@@ -29,19 +29,19 @@
   </a>
 </p>
 
-## 🐼 About me
-- 19 years old, based in Pelotas/RS
-- Technology analysis and systems development - Uninter
-- I love video games
+## 🐼 關於我
+- 19 歲，居住在 Pelotas/RS
+- 技術分析和系統開發 - Uninter
+- 我愛視頻遊戲
 
-## 🔥 Interests
-- I am currently learning Web Development, Pipeline, UI/UX & Data Science
-- Web Development (Flask, HTML, CSS and Javascript)
-- Cloud Computing (AWS, Azure and GCP)
-- Data science and data engineering
-- Databases (MySQL, Postegres and Oracle DB)
+## 🔥 興趣
+- 我目前正在學習 Web 開發、管道、UI/UX 和數據科學
+- Web 開發（Flask、HTML、CSS 和 Javascript）
+- 雲計算（AWS、Azure 和 GCP）
+- 數據科學和數據工程
+- 數據庫（MySQL、Postegres 和 Oracle DB）
 
-## 💻 Languages / Frameworks
+## 💻 語言/框架
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ 工具
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -62,7 +62,7 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-5e5e5e?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## 📊 Stats
+## 📊 統計
 
 <p align="left">
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
@@ -75,7 +75,7 @@
 
 <details>
 
-## 📁 More Projects
+## 📁 更多項目
 
 <p align="left">
 

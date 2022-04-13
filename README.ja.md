@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hi there 👌 I'm Jordan
-  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="Character">
+  こんにちは👌私はジョーダンです
+  <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="キャラクター">
 </h1>
 
 *Read this in other languages: [English](README.md), [Portuguese](README.pt-br.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
@@ -29,19 +29,19 @@
   </a>
 </p>
 
-## 🐼 About me
-- 19 years old, based in Pelotas/RS
-- Technology analysis and systems development - Uninter
-- I love video games
+## 🐼 私について
+- 19歳、ペロタス/RSに拠点を置く
+- 技術分析とシステム開発-Uninter
+- 私はビデオゲームが大好きです
 
-## 🔥 Interests
-- I am currently learning Web Development, Pipeline, UI/UX & Data Science
-- Web Development (Flask, HTML, CSS and Javascript)
-- Cloud Computing (AWS, Azure and GCP)
-- Data science and data engineering
-- Databases (MySQL, Postegres and Oracle DB)
+## 🔥 興味
+- 私は現在、Web開発、パイプライン、UI / UX、データサイエンスを学んでいます。
+- Web開発（Flask、HTML、CSS、Javascript）
+- クラウドコンピューティング（AWS、Azure、GCP）
+- データサイエンスとデータエンジニアリング
+- データベース（MySQL、Postegres、およびOracle DB）
 
-## 💻 Languages / Frameworks
+## 💻 言語/フレームワーク
 
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -53,7 +53,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ ツール
 
 <p align="left">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -62,7 +62,7 @@
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-5e5e5e?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## 📊 Stats
+## 📊 統計
 
 <p align="left">
   <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
@@ -75,7 +75,7 @@
 
 <details>
 
-## 📁 More Projects
+## 📁その他のプロジェクト
 
 <p align="left">
 
