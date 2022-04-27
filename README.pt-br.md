@@ -31,7 +31,7 @@
 
   <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://jordancampos20.github.io/Portfolio/" alt="Jordan's Github Stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=110b09&border_color=ffffff&text_color=ffffff&bg_color=ffffff00&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=ffffff00&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
   </p>
 
@@ -87,10 +87,10 @@
 
   <p align="left">
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=110b09&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
     </a>
     <a href="https://wakatime.com/@JordanCampos20" alt="Wakatime">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=110b09&hide_title=false&include_all_commits=false&count_private=true&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=true&layout=compact"/>
     </a>
   </p>
 </details>
@@ -130,13 +130,13 @@
 <details align="center">
   <summary>📁 Unity</summary>
 
-[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=110b09&theme=graywhite&repo=MyUnityGames)](https://github.com/jordancampos20/MyUnityGames)
+[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=ffffff&theme=graywhite&repo=MyUnityGames)](https://github.com/jordancampos20/MyUnityGames)
 
-[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=110b09&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
+[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=ffffff&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
 
-[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=110b09&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
+[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=ffffff&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
 
-[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=110b09&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
+[![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=ffffff&theme=graywhite&repo=Example)](https://github.com/jordancampos20/Example)
 
 </details>
 
