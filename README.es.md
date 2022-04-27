@@ -1,17 +1,17 @@
 
 <h1 align="center">
-  안녕하세요 👌 조던입니다
+  Hola 👌 soy Jordan
   <a target="_blank" rel="noopener noreferrer" href="https://jordancampos20.github.io/Portfolio/">
   <img src="https://raw.githubusercontent.com/JordanCampos20/JordanCampos20/main/img/daft.gif"  min-width="400px" max-width="400px" width="400px" align="center" alt="Character">
   </a>
 </h1>
 
 
-*Read this in other languages: [English](README.md), [Spanish](README.es.md), [Portuguese](README.pt-br.md), [한국어 (현재의)](README.ko.md), [日本語 ](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
+*Read this in other languages: [English](README.md), [Spanish (Actual)](README.es.md), [Portuguese](README.pt-br.md), [한국어](README.ko.md), [日本語 ](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
 
 <details open>
   <summary align="center" style="font-size: 1.5em; list-style-type: ''"> <span style="color:#2BBAC5">
-      print<span style="color:#E8BA36">(<span style="color:#89CA78">"안녕하세요 월드입니다!"</span>)</span></summary>
+      print<span style="color:#E8BA36">(<span style="color:#89CA78">"Hola Mundo!"</span>)</span></summary>
 
   <p></p>
 
@@ -38,27 +38,27 @@
 </details>
 
 <details open>
-  <summary style="font-size: 1.5em; list-style-type: '🐼'"> 나에 대해</summary>
+  <summary style="font-size: 1.5em; list-style-type: '🐼'"> Sobre mi</summary>
 
-- 19세, Pelotas/RS 거주
-- 기술분석 및 시스템 개발 - Uninter
-- 나는 비디오 게임을 좋아한다
-
-</details>
-
-<details open>
-  <summary style="font-size: 1.5em; list-style-type: '🔥'"> 관심분야</summary>
-
-- 현재 웹 개발, 파이프라인, UI/UX 및 데이터 과학을 배우고 있습니다.
-- 웹 개발(Flask, HTML, CSS 및 Javascript)
-- 클라우드 컴퓨팅(AWS, Azure 및 GCP)
-- 데이터 과학 및 데이터 엔지니어링
-- 데이터베이스(MySQL, Postegres 및 Oracle DB)
+- 19 años, residente en Pelotas/RS
+- Análisis de tecnología y desarrollo de sistemas - Uninter
+- Me encantan los juegos de video
 
 </details>
 
 <details open>
-  <summary style="font-size: 1.5em; list-style-type: '💻'"> 언어/프레임워크</summary>
+  <summary style="font-size: 1.5em; list-style-type: '🔥'"> Intereses</summary>
+
+- Actualmente estoy aprendiendo Desarrollo Web, Pipeline, UI/UX y Data Science
+- Desarrollo Web (Flask, HTML, CSS y Javascript)
+- Computación en la nube (AWS, Azure y GCP)
+- Ciencia de datos e ingeniería de datos
+- Bases de datos (MySQL, Postegres y Oracle DB)
+
+</details>
+
+<details open>
+  <summary style="font-size: 1.5em; list-style-type: '💻'"> Linguagens / Frameworks</summary>
 
   <p align="left">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -72,7 +72,7 @@
 </details>
 
 <details open>
-  <summary style="font-size: 1.5em; list-style-type: '🛠️'"> 도구</summary>
+  <summary style="font-size: 1.5em; list-style-type: '🛠️'"> Instrumentos</summary>
 
   <p align="left">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0077B5?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -83,7 +83,7 @@
 </details>
 
 <details open>
-  <summary style="font-size: 1.5em; list-style-type: '📊'"> 통계</summary>
+  <summary style="font-size: 1.5em; list-style-type: '📊'"> Estadísticas</summary>
 
   <p align="left">
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
@@ -98,7 +98,7 @@
 ---
 
 <details align="center">
-  <summary>📁 파이썬</summary>
+  <summary>📁 Pitón</summary>
   
 [![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=3772a6&border_color=ffffff&text_color=ffcf3f&bg_color=ffffff00&title_color=3772a6&repo=Multilingual-Readme-Generator)](https://github.com/jordancampos20/Multilingual-Readme-Generator)
 
@@ -113,7 +113,7 @@
 ---
 
 <details align="center">
-  <summary>📁 자바</summary>
+  <summary>📁 Java</summary>
 
 [![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=f8991d&text_color=5382a1&bg_color=ffffff00&title_color=f8991d&theme=flag-india&repo=MyJavaGames)](https://github.com/jordancampos20/MyJavaGames)
 
@@ -128,7 +128,7 @@
 ---
 
 <details align="center">
-  <summary>📁 단일성</summary>
+  <summary>📁 Unity</summary>
 
 [![readme card](https://github-readme-stats.vercel.app/api/pin/?username=JordanCampos20&icon_color=ffffff&text_color=ffffff&bg_color=ffffff00&title_color=110b09&theme=graywhite&repo=MyUnityGames)](https://github.com/jordancampos20/MyUnityGames)
 
