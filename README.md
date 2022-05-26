@@ -87,10 +87,10 @@
 
   <p align="left">
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=000000&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
     </a>
     <a href="https://wakatime.com/@JordanCampos20" alt="Wakatime">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=000000&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&bg_color=ffffff00&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=true&layout=compact"/>
     </a>
   </p>
 </details>
