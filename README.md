@@ -31,7 +31,7 @@
 
   <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://jordancampos20.github.io/Portfolio/" alt="Jordan's Github Stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
     </a>
   </p>
 
@@ -91,10 +91,10 @@
 
   <p align="left">
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/" alt="Linkedin">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=true&hide=roff&&langs_count=10" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=false&hide=roff&&langs_count=10" />
     </a>
     <a href="https://wakatime.com/@JordanCampos20" alt="Wakatime">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=true&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=false&layout=compact"/>
     </a>
   </p>
 </details>
