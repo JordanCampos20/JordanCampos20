@@ -50,10 +50,10 @@
   <summary style="font-size: 1.5em; list-style-type: '🔥'"> Interests</summary>
 
 - I am currently learning Web Development, Pipeline, UI/UX & Data Science
-- Web Development (Flask, HTML, CSS and Javascript)
-- Cloud Computing (AWS, Azure and GCP)
-- Data science and data engineering
-- Databases (MySQL, Postegres and Oracle DB)
+- Web Development ((Flask, Django), HTML, CSS and Javascript)
+- Cloud Computing (AWS)
+- Data science and Software Engineer
+- Databases (MySQL, PostgreSQL, SQLite and Oracle DB)
 
 </details>
 
