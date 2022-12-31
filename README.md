@@ -6,9 +6,6 @@
   </a>
 </h1>
 
-
-*Read this in other languages: [English (Current)](README.md), [Spanish](README.es.md), [Portuguese](README.pt-br.md), [한국어](README.ko.md), [日本語 ](README.ja.md), [简体中文](README.zh-cn.md), [正體中文](README.zh-tw.md)*
-
 <details open>
   <summary align="center" style="font-size: 1.5em; list-style-type: ''"> <span style="color:#2BBAC5">
       print<span style="color:#E8BA36">(<span style="color:#89CA78">"Hello World!"</span>)</span></summary>
@@ -16,7 +13,7 @@
   <p></p>
 
   <p align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://jordanc20.com.br">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.jordanc20.com.br">
       <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
     </a>
     <a target="_blank" rel="noopener noreferrer" href="mailto:jordancamposprogramador@gmail.com">
@@ -30,7 +27,7 @@
 
 
   <p align="center">
-    <a target="_blank" rel="noopener noreferrer" href="https://jordanc20.com.br" alt="Jordan's Github Stats">
+    <a target="_blank" rel="noopener noreferrer" href="https://www.jordanc20.com.br" alt="Jordan's Github Stats">
       <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
     </a>
   </p>
