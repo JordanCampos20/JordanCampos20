@@ -41,7 +41,7 @@
   <summary style="font-size: 1.5em; list-style-type: '🐼'"> About me</summary>
 
 - 20 years old, based in Pelotas/RS
-- Web developer - Josapar
+- Full Stack - Josapar
 - Technology analysis and systems development - Uninter
 - I love video games
 
