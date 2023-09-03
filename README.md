@@ -37,9 +37,9 @@
 <details open>
   <summary style="font-size: 1.5em; list-style-type: '🐼'"> About me</summary>
 
-- 20 years old, based in Pelotas/RS
+- 21 years old, based in Pelotas/RS
 - Full Stack - Josapar
-- Technology analysis and systems development - Uninter
+- Graduated in Systems Analysis and Development
 - I love video games
 
 </details>
