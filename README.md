@@ -60,7 +60,7 @@
     <img alt="VB6" src="https://img.shields.io/badge/VB6-37af9b?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABmJLR0QA/wD/AP+gvaeTAAACYklEQVQ4jcWSS08TARSFT+fR6bRlmBbGdvqaFkYQBqXQBqiPaDQalyoLww/QhYkbN7pgQVz4CzRu/AEuNOjChUYTYw3yUKhCeBRtLS22QJEWK+20TOuOiIpbzvLenC/3nhxgv6XbayHLMgN7y1CN0RO6Qm7489jr0f+SAoEALUlKv9SsnAagazl36UHv80kt9Ga+1nHl5prLFXL+y0cBgMsVYhWnaXjohj+UzZfUO49tkbjgU1CuEGABur2jkZ+I3E2lcPFPAAkAFgt3dmig8/oRr5UXrUZTXZ3FE1s/xH8vJlEtFaGfS8LFtkoUUeHWVuMv/wKwwgH9QRt/2Wpm6tcLKj6lKuWFtJHm8zpYE2WwmxpMyNI9jWqz0uQe0Ag+msl++7rzgsDyXS8WtIzoFQUdZTRMa8Ut/qjAcj47Eo+mYCSruN1ZgNPksAMO+yBN3o/Mo23ngt6+8w/7+6/541sktSjaYDoRMHJeEUx9HRiuhiBThKSlYTHoUalWkVRp/gfTqC0lY2ECACiK3EinE9hmaRT1u0Myyz7MUsBs2YK59S2Mr5TQ4GmjvC73VVmWGRIAKJJdcTjcJ9WyyhFNdqiFn6BZA/KpZWiqCrPBAJHmkNGLyOobYOYF5Dc3c9PRmXskAKyuLi3WajWjaHX3fJka3zB5HOZtVUW924XU6Fh6ZWQ0I/GWBrORhUOwITz5Pv5hdubVVGTi6a4mKkpwIJcrh5vP9D1zdnc74m9HRgqx6K1qSSP6Dnc+kTxOw7vIx3AssTwYjU7E9mxlR/D4qdauY8HfZ35/zwVZ7mrf07Rv+gU5Mdad12VwrwAAAABJRU5ErkJggg==&logoColor=white" />
     <br>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=html5&logoColor=white" />
   </p>
 </details>
 
