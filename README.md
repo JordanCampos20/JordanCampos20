@@ -28,7 +28,7 @@
 
   <p align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://www.jordanc20.com.br" alt="Jordan's Github Stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=jordancampos20&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
+      <img src="https://github-readme-stats.jordanc20.com.br/api?username=jordancampos20&locale=pt-BR&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
     </a>
   </p>
 
@@ -87,12 +87,12 @@
 
   <p align="left">
     <a target="_blank" rel="noopener noreferrer" href="https://wakatime.com/@JordanCampos20" alt="Wakatime">
-      <img valign="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=false&layout=compact&langs_count=14"/>
+      <img valign="top" src="https://github-readme-stats.jordanc20.com.br/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=false&layout=compact&langs_count=14"/>
     </a>
     <br>
     <br>
     <a target="_blank" rel="noopener noreferrer" href="https://wakatime.com/@JordanCampos20" alt="Wakatime">
-      <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=false&hide=roff&&langs_count=8" />
+      <img valign="top" src="https://github-readme-stats.jordanc20.com.br/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=false&hide=roff&&langs_count=8" />
     </a>
   </p>
 </details>
