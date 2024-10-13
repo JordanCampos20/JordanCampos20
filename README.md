@@ -11,14 +11,14 @@
    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jordancampos20/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a target="_blank" rel="noopener noreferrer" href="mailto:jordancamposprogramador@gmail.com">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:jordan@jasmim.dev">
     <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 
 <div align="center">
-  <img height="240em" src="https://github-readme-stats.jordanc20.com.br/api?username=jordancampos20&locale=pt-BR&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
-  <img height="240em" src="https://github-readme-stats.jordanc20.com.br/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=false&hide=roff&&langs_count=8" />
-  <img height="240em" src="https://github-readme-stats.jordanc20.com.br/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=false&layout=compact&langs_count=14"/>
+  <img height="240em" src="https://github-readme-stats.jasmim.dev/api?username=jordancampos20&locale=pt-BR&show_icons=true&icon_color=ffffff&border_color=ffffff&text_color=ffffff&bg_color=22272e&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide_border=false"/>
+  <img height="240em" src="https://github-readme-stats.jasmim.dev/api/top-langs/?username=JordanCampos20&layout=compact&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=true&count_private=true&hide_border=false&hide=roff&&langs_count=8" />
+  <img height="240em" src="https://github-readme-stats.jasmim.dev/api/wakatime?username=JordanCampos20&show_icons=true&icon_color=2BBAC5&text_color=ffffff&border_color=ffffff&bg_color=22272e&theme=dark&title_color=ffffff&hide_title=false&include_all_commits=false&count_private=true&hide_border=false&layout=compact&langs_count=14"/>
 </div>
