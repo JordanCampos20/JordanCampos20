@@ -2,7 +2,7 @@
 
 <div align="center">
    <p><strong>Desenvolvedor Full Stack .NET</strong></p>
-   <p>📍 Pelotas/RS, Brasil • 22 anos</p>
+   <p>📍 Porto Alegre/RS, Brasil • 23 anos</p>
    <p>💻 Foco em aplicações web, APIs, microsserviços e front-end moderno</p>
    
    <p align="center">
